@@ -13,6 +13,7 @@ I'm excited to share some of my recent projects that showcase my passion for Dat
   - In another endeavor, I've delved into the challenging task of classifying harmful or toxic comments in online discussions. Explore this project [here].
 
 ## Language & Tool 🌌
+
 <div class="d-flex flex-row justify-content-center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
