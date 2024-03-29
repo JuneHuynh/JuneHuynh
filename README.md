@@ -1,6 +1,6 @@
 # About Me 😄
 
-Greetings! I'm Trọng Huy, hailing from Vietnam, and I'm a Data Scientist🚀
+Greetings! I'm Huy, hailing from Vietnam, and I'm a Data Scientist🚀
 
 ## My Projects 🌟
 
